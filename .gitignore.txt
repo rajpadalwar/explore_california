@@ -1,3 +1,4 @@
 temp.txt
 *.zip
 log/*.log
+test.ignore
